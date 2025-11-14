@@ -1,6 +1,6 @@
 # Test Cases for Udemy Search Functionality
 
-This portfolio project provides a set of functional test cases for the "Search" feature on the Udemy platform.
+This project provides a set of functional test cases for the "Search" feature on the Udemy platform.
 
 The Excel file contains 3 separate sheets, each testing a different aspect of the search functionality: 1. **Search by Category:** Validating search results when filtering by category. 2. **Search by Course:** Validating the main search bar for specific course names. 3. **Search by Instructor:** Validating the search feature for finding specific instructors.
 
